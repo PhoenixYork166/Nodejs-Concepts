@@ -1,0 +1,16 @@
+{
+  "name": "fs-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fs-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon fd-1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
